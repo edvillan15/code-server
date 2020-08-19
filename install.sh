@@ -2,7 +2,7 @@
 set -eu
 
 # code-server's automatic install script.
-# See https://github.com/cdr/code-server/blob/master/doc/install.md
+# See https://github.com/edvillan15/code-server/blob/master/doc/install.md
 
 usage() {
   arg0="$0"
